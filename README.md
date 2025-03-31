@@ -58,7 +58,8 @@
   📧 <a href="mailto:211001100@rajalakshmi.edu.in">Email</a>  |  
   💼 <a href="https://www.linkedin.com/in/shemkumar/">LinkedIn</a>  |  
   💻 <a href="https://github.com/shemkumar">GitHub</a>  |  
-  🌐 <a href="http://shemkumar.xyz/search/">Portfolio</a>
+  🌐 <a href="http://shemkumar.xyz/search/">Portfolio</a> |
+  🌐 <a href="https://tryhackme.com/p/SHEMKUMAR">Try Hack Me</a>
 </p>
 
 <p align="center">Let's collaborate and make the digital world more secure! 🔐💡</p>
