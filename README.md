@@ -1,65 +1,77 @@
-<h1 align="center">Hi there, I'm Shemkumar P! 👋</h1>
+# Hi, I'm Sam 👋
 
-<p align="center">
-  <img src="https://github.com/shemkumar.png" width="150" height="150" style="border-radius:50%" />
-</p>
+AI Security Engineer | Cybersecurity Researcher | DevSecOps Enthusiast
 
-<h3 align="center">🚀 Cybersecurity Enthusiast | CTF Organizer | Ethical Hacker</h3>
-
-<p align="center">
-  🔹 Passionate about security research, penetration testing, and vulnerability assessment.<br>
-  🔹 Co-founder of <strong>Cyber Sentinels Club</strong> at Rajalakshmi Engineering College.<br>
-  🔹 Ranked in <strong>Top 10</strong> at <strong>Pentathon 2024 CTF</strong> (National Level).<br>
-  🔹 Experienced in <strong>AWS, Docker, Python, Flask, and DevSecOps</strong>.<br>
-</p>
+I work on securing AI systems, web applications, cloud infrastructure, and developer workflows. My interests include vulnerability research, penetration testing, threat detection, secure automation, and AI security.
 
 ---
 
-<h2>🛠️ Tech Stack</h2>
+## 🔐 About Me
 
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" /></td>
-  </tr>
-</table>
+- AI Security Engineer focused on secure AI systems and application security
+- Experienced in penetration testing, vulnerability assessment, and security automation
+- Interested in DevSecOps, cloud security, detection engineering, and offensive security
+- CTF participant and cybersecurity community contributor
+- Co-founder of Cyber Sentinels Club at Rajalakshmi Engineering College
 
 ---
 
-<h2>🚀 Featured Projects</h2>
+## 🛠️ Skills & Tools
 
-📌 <strong><a href="https://github.com/shemkumar/final-year">Cyber Attack Detection Using Server Logs</a></strong><br>
-🔹 Built a Flask-based tool for analyzing server logs to detect SQL Injection, XSS, and Command Injection attacks.<br>
-🔹 Automated log analysis, reducing breach response time by <strong>30%</strong>.<br>
+**Security:**  
+Web Security, API Security, OSINT, Vulnerability Assessment, Penetration Testing, Threat Detection
 
-📌 <strong><a href="https://github.com/shemkumar/Google-Dorking">Google Dorking for Security Research</a></strong><br>
-🔹 Leveraged OSINT techniques to uncover sensitive data & vulnerabilities via Google Dorking.<br>
+**Programming & Automation:**  
+Python, Flask, Bash, PowerShell, Selenium
 
-📌 <strong><a href="https://github.com/shemkumar/wifi_automation">WiFi Password Automation</a></strong><br>
-🔹 Developed a Selenium-based automation script to streamline login processes for open WiFi portals.<br>
+**Cloud & DevOps:**  
+AWS, Docker, Linux, GitHub Actions, DevSecOps
 
----
-
-<h2>🏆 Achievements</h2>
-
-🏅 <strong>Top 10 Teams in Pentathon 2024 CTF</strong> – National-level Government CTF competition.<br>
-🛡️ <strong>Discovered a vulnerability in the TCS iON platform</strong> affecting the unsubscribe feature.<br>
-🛠️ <strong>Identified a Remote Code Execution (RCE) on Rajalakshmi Engineering College's website</strong>, gaining reverse shell access.<br>
-📢 <strong>Reported a major data leakage vulnerability</strong> in the Tamil Nadu Government Scholarship Portal.<br>
+**AI Security:**  
+LLM Security, Prompt Injection Testing, AI Risk Assessment, Secure AI Workflows
 
 ---
 
-<h2>📬 Connect with Me</h2>
+## 🚀 Featured Projects
 
-<p>
-  📧 <a href="mailto:211001100@rajalakshmi.edu.in">Email</a>  |  
-  💼 <a href="https://www.linkedin.com/in/shemkumar/">LinkedIn</a>  |  
-  💻 <a href="https://github.com/shemkumar">GitHub</a>  |  
-  🌐 <a href="http://shemkumar.xyz/search/">Portfolio</a> |
-  🌐 <a href="https://tryhackme.com/p/SHEMKUMAR">Try Hack Me</a>
-</p>
+### Cyber Attack Detection Using Server Logs
+A Flask-based tool for analyzing server logs and detecting attacks such as SQL Injection, XSS, and Command Injection.
 
-<p align="center">Let's collaborate and make the digital world more secure! 🔐💡</p>
+### Google Dorking for Security Research
+OSINT-based research project using advanced search techniques to identify exposed sensitive data and potential vulnerabilities.
+
+### WiFi Automation
+Automation scripts for simplifying captive portal and WiFi login workflows using Selenium and Python.
+
+---
+
+## 🏆 Achievements
+
+- Ranked Top 10 in Pentathon 2024 CTF, a national-level cybersecurity competition
+- Reported security vulnerabilities across public and private platforms
+- Organized and contributed to cybersecurity learning initiatives
+- Built tools for security analysis, automation, and vulnerability research
+
+---
+
+## 📌 Current Focus
+
+- AI security and LLM application security
+- Secure software development lifecycle
+- Cloud-native security
+- Detection and response automation
+- Building practical security tooling
+
+---
+
+## 🤝 Connect With Me
+
+- GitHub: https://github.com/shemkumar
+- Portfolio: https://shemkumar.github.io
+- TryHackMe: https://tryhackme.com
+- LinkedIn: https://www.linkedin.com/in/shemkumar/
+- Email: Add your email here
+
+---
+
+> Building secure systems, one vulnerability at a time.
