@@ -70,7 +70,7 @@ Automation scripts for simplifying captive portal and WiFi login workflows using
 - Portfolio: https://shemkumar.github.io
 - TryHackMe: https://tryhackme.com
 - LinkedIn: https://www.linkedin.com/in/shemkumar/
-- Email: Add your email here
+
 
 ---
 
